@@ -1,0 +1,11 @@
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.calculadora.resources
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\autologon\Desktop\Exercicios\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
